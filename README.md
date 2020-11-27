@@ -4,7 +4,7 @@ Docker file for running CI/CD scripts with Salesforce DX and Data Utility Move
 
 ## Purpose
 
-You can consider using Data Utility Move tool for building pipelines on projects with FSL, CPQ , Billing or CGC - these are all data driven products having complex data models that require to transfer configuration records across enviroments to keep the buisnes logic working as designed
+You can consider using Data Utility Move tool for building pipelines on projects with FSL, CPQ , Billing or CGC - these are all data driven products having complex data models that require to transfer configuration records across environments to keep the business logic working as designed
 
 ## Usage
 
